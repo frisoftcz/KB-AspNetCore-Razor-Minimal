@@ -1,6 +1,6 @@
 # KB-AspNetCore-Razor-Minimal
 Vytvoření aplikace:  
-File - New - Project - Web - .NET Core - ASP.NET Core Web Core - Empty
+File - New - Project - Web - .NET Core - ASP.NET Core Web Application - Empty
 
 Modifikace Startup.cs  
 service.AddMvc();  
